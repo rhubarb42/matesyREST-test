@@ -1,0 +1,6 @@
+{
+  "diary": [
+    { "userId": "testUser", "date": 2020-07-06, "creationDate": 2020-07-06, "textEntry:" "Testeintrag 1"},
+    { "userId": "testUser", "date": 2020-07-07, "creationDate": 2020-07-07, "textEntry:" "Testeintrag 2"},
+  ]
+}
